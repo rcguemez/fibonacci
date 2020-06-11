@@ -1,5 +1,4 @@
 # fibonacci
-<<<<<<< HEAD
 
 ## Project setup
 ```
